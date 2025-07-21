@@ -12,4 +12,6 @@ export default defineConfig({
   image: {
     domains: ["images.unsplash.com"],
   },
+
+  trailingSlash: "always"
 });
